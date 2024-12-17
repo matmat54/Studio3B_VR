@@ -32,6 +32,14 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("Video3");
     }
 
+    public void LoadVideo4()
+    {
+        SceneManager.LoadScene("Video5");
+    }
+    public void LoadVideo5()
+    {
+        SceneManager.LoadScene("Video5");
+    }
     public void LoadLaifRoom()
     {
         // When loading LaifRoom, the OnSceneLoaded callback will restore the player position
