@@ -3377,7 +3377,7 @@ PrefabInstance:
     - target: {fileID: 1870756277668107668, guid: fd25cd6eb670449049dd13fc9b0fb453,
         type: 3}
       propertyPath: m_text
-      value: "Willkommen in 360 Grad Video. Dr\xFCcke die A oder Y-Taste um das Video
+      value: "Willkommen im 360 Grad Video. Dr\xFCcke die A oder Y-Taste um das Video
         zu beenden."
       objectReference: {fileID: 0}
     - target: {fileID: 1870756277668107668, guid: fd25cd6eb670449049dd13fc9b0fb453,
@@ -3429,6 +3429,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 29.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6345392755024896366, guid: fd25cd6eb670449049dd13fc9b0fb453,
+        type: 3}
+      propertyPath: m_text
+      value: Video verlassen
       objectReference: {fileID: 0}
     - target: {fileID: 6566080095101724296, guid: fd25cd6eb670449049dd13fc9b0fb453,
         type: 3}
@@ -3769,7 +3774,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1786544965}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: d5c92a5e269324f989a7739f44bf9440, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 31e178c9c4ed64f4dad2b34b03140f97, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -3786,7 +3791,7 @@ VideoPlayer:
   m_TargetAudioSources:
   - {fileID: 0}
   m_DirectAudioVolumes:
-  - 0.267
+  - 0.4
   m_Url: 
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
@@ -3878,7 +3883,7 @@ PrefabInstance:
     - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -34,7 +34,7 @@ public class SceneLoader : MonoBehaviour
 
     public void LoadVideo4()
     {
-        SceneManager.LoadScene("Video5");
+        SceneManager.LoadScene("Video4");
     }
     public void LoadVideo5()
     {

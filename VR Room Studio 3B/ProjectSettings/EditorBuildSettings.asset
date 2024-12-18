@@ -13,10 +13,16 @@ EditorBuildSettings:
     guid: d60dc8e5128354565bfa1dc0de8be76b
   - enabled: 1
     path: Assets/Scenes/Video2.unity
-    guid: 26fb6a058c93c487e86ec8fcd47ec6f0
+    guid: 8e4e4b2f727b046cab855c223b86f172
   - enabled: 1
     path: Assets/Scenes/Video3.unity
-    guid: f211d379b179c430a9dac0a34a5dc28f
+    guid: d1115ff767b314a1692e4d2e5aba09df
+  - enabled: 1
+    path: Assets/Scenes/Video4.unity
+    guid: b46afdd6e0f324805b7fbe1476878f65
+  - enabled: 1
+    path: Assets/Scenes/Video5.unity
+    guid: 92574a0e5c7fd4cd5b5024ed2a986e30
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
       type: 2}
