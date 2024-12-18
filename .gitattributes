@@ -36,3 +36,5 @@
 *.exe[[:space:]]filter=lfs[[:space:]]diff=lfs[[:space:]]merge=lfs[[:space:]]-text filter=lfs diff=lfs merge=lfs -text
 *.tar.gz[[:space:]]filter=lfs[[:space:]]diff=lfs[[:space:]]merge=lfs[[:space:]]-text filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+VR[[:space:]]Room[[:space:]]Studio[[:space:]]3B/Assets/360Video[[:space:]]&[[:space:]]Skybox/Videos/FeuerFinal.mp4 filter=lfs diff=lfs merge=lfs -text
+VR[[:space:]]Room[[:space:]]Studio[[:space:]]3B/Assets/360Video[[:space:]]&[[:space:]]Skybox/Videos/Feuer.mp4 filter=lfs diff=lfs merge=lfs -text
